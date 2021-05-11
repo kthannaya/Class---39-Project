@@ -1,1 +1,1 @@
-# Class---39-Project
+# C39-infinite-runner
